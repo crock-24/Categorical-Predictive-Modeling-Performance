@@ -6,7 +6,7 @@ The objective is to build, tune, and evaluate classification models using standa
 
 ---
 
-## Problem 12.1: Hepatic Injury Prediction
+## Hepatic Injury Prediction
 
 ### Objective
 Predict hepatic injury status using biological predictors from the `hepatic` dataset.
@@ -38,7 +38,7 @@ From the penalized model:
 
 ---
 
-## Problem 12.3: Churn Prediction
+## Churn Prediction
 
 ### Objective
 Predict telecom customer churn using service and usage data (`mlc_churn` dataset).
